@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6w0047/d/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 正信念佛偈私見聞
+  edition:
+    short: d
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D47/D47n8936.xml
+    old_id: D47n8936
+hash: sha256:9f4f1c5c54f77a4b6520d6f37e788919a5bb0313f36f3388d7b4e0dd4acf09af

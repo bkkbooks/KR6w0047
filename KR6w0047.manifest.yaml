@@ -1,0 +1,287 @@
+canonical_identifier: bkk:krp/KR6w0047/v1
+canonical_location: https://kanripo.org/bkk/KR6w0047/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 正信念佛偈私見聞
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D47/D47n8936.xml
+    old_id: D47n8936
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0047_000.yaml, hash: 'sha256:9f4f1c5c54f77a4b6520d6f37e788919a5bb0313f36f3388d7b4e0dd4acf09af'}
+  - {seq: 1, filename: KR6w0047_001.yaml, hash: 'sha256:7a4636c1b743311bc70af4e71f64c529e2fd2e32de7eb27834c2765c0544df53'}
+  - {seq: 2, filename: KR6w0047_002.yaml, hash: 'sha256:cf07a425627210e571ea786f677c44c486c68b108c11deb66e03cf7a71d72f45'}
+  - {seq: 3, filename: KR6w0047_003.yaml, hash: 'sha256:0cb8a920598f72aded29816a8ebd2e5364fc3fd2b9df13b6123b3754f37df1c8'}
+  - {seq: 4, filename: KR6w0047_004.yaml, hash: 'sha256:4e5451038dd8394bac5317193307b06660c8798c0da0f63a1c8bb38382542391'}
+  - {seq: 5, filename: KR6w0047_005.yaml, hash: 'sha256:58ea4e41b6c1276ad70c047d17c2729e8f9ddd7b5e64652f4ebe5b4d7c05c520'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6w0047_001.markers.yaml, hash: 'sha256:0b3d7384db4826f4caba75f7c86865ddde45b4d5270c764f81bdbfb1a8341478'}
+  - {seq: 2, role: markers, filename: assets/KR6w0047_002.markers.yaml, hash: 'sha256:ad364be0851a4b92de0a2eb640b0d4afc539e5ee7dd37508a235c0f123d1ba62'}
+  - {seq: 3, role: markers, filename: assets/KR6w0047_003.markers.yaml, hash: 'sha256:253c632feee7433d17810e8f73c2d1f5af61706e4c211c577fda97c2bf690ce7'}
+  - {seq: 4, role: markers, filename: assets/KR6w0047_004.markers.yaml, hash: 'sha256:1ec68a0e9e8284f5e1c0bd225c2b553b3736f9019b2d04265d41c4db7f383411'}
+  - {seq: 5, role: markers, filename: assets/KR6w0047_005.markers.yaml, hash: 'sha256:0e78c3ad32b4eff41b7da2217f4c632fa2e98ba222593b4c693618aacd6a0943'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 12772
+  label: 正信念佛偈私見聞一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 偈文來意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-2
+    span:
+    - body
+    - 192
+    - 192
+  label: 釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-3
+    span:
+    - body
+    - 192
+    - 192
+  label: 正信
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-4
+    span:
+    - body
+    - 3460
+    - 3460
+  label: 念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-5
+    span:
+    - body
+    - 3879
+    - 3879
+  label: 偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-6
+    span:
+    - body
+    - 4094
+    - 4094
+  label: 解釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-7
+    span:
+    - body
+    - 4109
+    - 4109
+  label: 大綱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-8
+    span:
+    - body
+    - 4324
+    - 4324
+  label: 細釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-9
+    span:
+    - body
+    - 4324
+    - 4324
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0047_D_001-mulu-10
+    span:
+    - body
+    - 4459
+    - 4459
+  label: 大經意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0047_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 13650
+  label: 正信念佛偈私見聞二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0047_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 12500
+  label: 正信念佛偈私見聞三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0047_D_003-mulu-1
+    span:
+    - body
+    - 8533
+    - 8533
+  label: 總標三朝祖師同顯淨土教意
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0047_D_003-mulu-2
+    span:
+    - body
+    - 9638
+    - 9638
+  label: 龍樹大士讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0047_D_004-juan-start
+    span:
+    - body
+    - 0
+    - 14710
+  label: 正信念佛偈私見聞四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0047_D_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 天親菩薩讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0047_D_004-mulu-2
+    span:
+    - body
+    - 8594
+    - 8594
+  label: 曇鸞和尚讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6w0047_D_004-mulu-3
+    span:
+    - body
+    - 12170
+    - 12170
+  label: 道綽禪師讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0047_D_005-juan-start
+    span:
+    - body
+    - 0
+    - 14095
+  label: 正信念佛偈私見聞五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0047_D_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 善導大師讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0047_D_005-mulu-2
+    span:
+    - body
+    - 4501
+    - 4501
+  label: 源信和尚讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0047_D_005-mulu-3
+    span:
+    - body
+    - 9423
+    - 9423
+  label: 源空聖人讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0047_D_005-mulu-4
+    span:
+    - body
+    - 12857
+    - 12857
+  label: 總結
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6w0047_D_005-mulu-5
+    span:
+    - body
+    - 13886
+    - 13886
+  label: 跋
+  type: mulu
+  level: 1
+hash: sha256:03c458afd6b695390fb85f8f3116f3f0c3e46603a0ebcc70ceb5d5951a670848
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
